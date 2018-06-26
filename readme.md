@@ -5,6 +5,7 @@
    * redux-devtools https://redux.js.org/
    * redux-logger https://www.npmjs.com/package/redux-logger
    * lodash https://lodash.com/
+   
 ### React Native Dependencies:
     * axios https://github.com/axios/axios
     * redux-axios-middleware 
