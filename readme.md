@@ -9,8 +9,8 @@
    * lodash https://lodash.com/
 
 ### React Native Dependencies:
-    * axios https://github.com/axios/axios
-    * redux-axios-middleware 
-    * redux 
-    * react-redux
-    * native-base https://docs.nativebase.io/docs/GetStarted.html
+   * axios https://github.com/axios/axios
+   * redux-axios-middleware 
+   * redux 
+   * react-redux
+   * native-base https://docs.nativebase.io/docs/GetStarted.html
